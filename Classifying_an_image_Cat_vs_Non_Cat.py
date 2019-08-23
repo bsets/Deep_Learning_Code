@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 16 20:30:48 2019
-
-@author: HP
-"""
 
 import numpy as np # Numpy library
 import matplotlib.pyplot as plt
@@ -57,9 +51,6 @@ train_set_x = train_set_x_flatten/255
 test_set_x = test_set_x_flatten/255
 
 # Common Preprocessing Steps- Finding out the dimensions of the datset, changing the shape of the matrix inputs, standardizing the data values
-
-
-
 
 
 # Functions
